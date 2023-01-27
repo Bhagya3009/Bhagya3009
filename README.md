@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Bhagya3009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hey, [Bhagyashri](https://www.linkedin.com/in/bhagyashrizende/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Bhagyashri Zende'
+		current_edu = "Bharati Vidyapeeth's College Of Engineering For Women,Pune"
+		hobbies = [
+				'Travelling',
+				'Watching Mystery,Crime Movies And WebSeries',
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Pune_India()
+	
+	def Ambitions():
+		LearnMusicProduction()
+		CreateAClub()
+		FinishMyNovel()
+		
+	
+ ```
+## My Current Stats
 
-<!---
-Bhagya3009/Bhagya3009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Stats | Languages
+------| ----------
+![Bhagyashri 's Github Stats](https://github-readme-stats.vercel.app/api?username=Bhagya3009&show_icons=true&theme=midnight-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya3009&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/Bhagya3009/github-readme-stats)
