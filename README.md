@@ -25,3 +25,9 @@
 Stats | Languages
 ------| ----------
 ![Bhagyashri 's Github Stats](https://github-readme-stats.vercel.app/api?username=Bhagya3009&show_icons=true&theme=midnight-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya3009&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/Bhagya3009/github-readme-stats)
+
+ ## :computer: Technologies I Love
+
+* Data Analyst
+* Augumented Reality
+* PowerBi
