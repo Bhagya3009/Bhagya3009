@@ -7,7 +7,7 @@
 		hobbies = [
 				'Travelling',
 				'Watching Mystery,Crime Movies And WebSeries',
-				'Being up all Night chasing that ONE BUG...'
+				'Being up all Night chasing that ONE AIM...'
 			]
 	
 	def getCity():
