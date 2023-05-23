@@ -14,9 +14,9 @@
 		return Pune_India()
 	
 	def Ambitions():
-		LearnMusicProduction()
-		CreateAClub()
-		FinishMyNovel()
+		Get_Into_An_II(M/T)
+		Be_Highest_Package_Grabber();
+		Get_My_First_Car_On_My_23rd_Bday();
 		
 	
  ```
